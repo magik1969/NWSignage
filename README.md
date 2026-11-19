@@ -1,6 +1,6 @@
 # Introduction
 
-`NWDS` is a simple digital signage program based on NW.js platform.
+`NWSignage` is a simple digital signage program based on NW.js platform.
 
 ## Main features
 * based on modern and secure Web technologies
@@ -10,7 +10,7 @@
 
 ## Usage
 ```
-path/to/nw path/to/NWDS/.
+path/to/nw path/to/NWSignage/.
 ```
 
 ## Notes

@@ -1,9 +1,9 @@
 {
-    "name": "nwds",
+    "name": "nwsignage",
     "main": "main.html",
     "chromium-args": "--disable-web-security", 
     "window": {
-        "title": "NWDS",
+        "title": "NWSignage",
         "show": false
     }
 }
